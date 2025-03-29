@@ -48,10 +48,9 @@ This project is an image classification system built using Convolutional Neural 
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/7d4b014d-dd05-4083-b59c-64291bb902f1)
+![image](https://github.com/user-attachments/assets/971f1263-bbd3-4ab9-ab28-d1b62f81732e)
 
-
-![image](https://github.com/user-attachments/assets/692f3c82-e458-4f5f-985c-ab4592f83f49)
+![image](https://github.com/user-attachments/assets/d2229d99-0769-403d-baed-db7c69376927)
 
 
 ## Dependencies  
